@@ -1,7 +1,7 @@
 # CS9114 Data Science Final Project Report 
 ## Topic: Bank Direct Marketing Classification Analysis
 
-This repository includes 
+This repository includes:
 - Jupyter Notebook (python coding)
 - CSV file
 - Feature description file
